@@ -15,4 +15,4 @@ To deploy on GitHub Pages:
 - Upload `index.html` and `license-screenshot.jpg` to your GitHub repository.
 - Go to **Settings > Pages**.
 - Choose branch: `main`, folder: `/ (root)`, and click Save.
-- Visit the link GitHub provides (e.g., `https://yourusername.github.io/scrollable-license`)
+- Visit the link GitHub provides (e.g., `https://yourusername.github.io/scrollable-license`).
